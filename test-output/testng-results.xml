@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="19" started-at="2016-05-31T13:48:51Z" finished-at="2016-05-31T13:48:51Z">
+  <suite name="Default suite" duration-ms="21" started-at="2016-07-04T12:35:03Z" finished-at="2016-07-04T12:35:03Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="19" started-at="2016-05-31T13:48:51Z" finished-at="2016-05-31T13:48:51Z">
-      <class name="com.apple.explore.experiment.AppTest">
-        <test-method status="PASS" signature="RecursionReverse()[pri:0, instance:com.apple.explore.experiment.AppTest@2a5ca609]" name="RecursionReverse" duration-ms="8" started-at="2016-05-31T19:18:51Z" finished-at="2016-05-31T19:18:51Z">
+    <test name="Default test" duration-ms="21" started-at="2016-07-04T12:35:03Z" finished-at="2016-07-04T12:35:03Z">
+      <class name="com.apple.stringprograms.StringUseless">
+        <test-method status="PASS" signature="minimumvalue()[pri:0, instance:com.apple.stringprograms.StringUseless@724af044]" name="minimumvalue" duration-ms="9" started-at="2016-07-04T18:05:03Z" finished-at="2016-07-04T18:05:03Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- RecursionReverse -->
-      </class> <!-- com.apple.explore.experiment.AppTest -->
+        </test-method> <!-- minimumvalue -->
+      </class> <!-- com.apple.stringprograms.StringUseless -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
