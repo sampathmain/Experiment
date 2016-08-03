@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="21" started-at="2016-07-04T12:35:03Z" finished-at="2016-07-04T12:35:03Z">
+  <suite name="Default suite" duration-ms="22" started-at="2016-07-08T13:39:15Z" finished-at="2016-07-08T13:39:15Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="21" started-at="2016-07-04T12:35:03Z" finished-at="2016-07-04T12:35:03Z">
-      <class name="com.apple.stringprograms.StringUseless">
-        <test-method status="PASS" signature="minimumvalue()[pri:0, instance:com.apple.stringprograms.StringUseless@724af044]" name="minimumvalue" duration-ms="9" started-at="2016-07-04T18:05:03Z" finished-at="2016-07-04T18:05:03Z">
+    <test name="Default test" duration-ms="22" started-at="2016-07-08T13:39:15Z" finished-at="2016-07-08T13:39:15Z">
+      <class name="com.apple.stringprograms.StringSecond">
+        <test-method status="PASS" signature="duplicateElements()[pri:0, instance:com.apple.stringprograms.StringSecond@724af044]" name="duplicateElements" duration-ms="8" started-at="2016-07-08T19:09:15Z" finished-at="2016-07-08T19:09:15Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- minimumvalue -->
-      </class> <!-- com.apple.stringprograms.StringUseless -->
+        </test-method> <!-- duplicateElements -->
+      </class> <!-- com.apple.stringprograms.StringSecond -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

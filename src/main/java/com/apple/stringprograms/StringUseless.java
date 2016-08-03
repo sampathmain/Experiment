@@ -4,6 +4,10 @@ import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
+import java.util.Collections;
+import java.util.HashSet;
+import java.util.Iterator;
+import java.util.Set;
 
 import org.testng.annotations.Test;
 
@@ -58,8 +62,19 @@ public class StringUseless {
 	
 	}
 
-	@Test
+	//@Test
 	public void minimumvalue(){
-		 System.out.println(Math.min(Double.MIN_VALUE, 0.0d));
+		 //System.out.println(Math.min(Double.MIN_VALUE, 0.0d));
+		Set set =new HashSet();
+		set.add(1);
+		set.add(12);
+		set.add("Sampath");
+		
+		Iterator it=set.iterator();
+		while(it.hasNext())
+			System.out.println(it.next());
+		
+		
 	}
+
 }
